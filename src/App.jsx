@@ -1,5 +1,5 @@
 import "./App.css";
-import { BrowserRouter,Routes,Route } from "react-router-dom"
+import { HashRouter,Routes,Route } from "react-router-dom"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Register from "./pages/Register";
 import Login from "./pages/Login";
@@ -14,7 +14,7 @@ function App() {
   return (
     <>
     <CartProvider>
-      <BrowserRouter>
+      <HashRouter>
       <Routes>
         <Route path="/" element={<Register/>} />
         <Route path="/login" element={<Login/>}/>
@@ -24,7 +24,7 @@ function App() {
             <Route path="cart" element={<Cart/>}/>
         </Route>
       </Routes>
-      </BrowserRouter>
+      </HashRouter>
       </CartProvider>
     </>
   )
