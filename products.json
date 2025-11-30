@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung Galaxy S24",
+    "image": "./images/pic1.jpeg",
+    "description": "6.2-inch Dynamic AMOLED display, 8GB RAM, 128GB storage, 50MP triple camera.",
+    "price": 67999
+  },
+  {
+    "id": 2,
+    "name": "Apple iPhone 15",
+    "image":  "./images/pic2.jpeg",
+    "description": "Super Retina XDR display, A16 Bionic chip, 48MP advanced dual camera system.",
+    "price": 79999
+  },
+  {
+    "id": 3,
+    "name": "OnePlus 12R",
+    "image":  "./images/pic3.jpeg",
+    "description": "Qualcomm Snapdragon 8 Gen 2, 50MP Sony camera sensor, 5500mAh battery.",
+    "price": 38999
+  },
+  {
+    "id": 4,
+    "name": "Dell Inspiron 15",
+    "image":  "./images/pic4.jpeg",
+    "description": "Intel i5 12th Gen, 8GB RAM, 512GB SSD, 15.6-inch FHD display.",
+    "price": 57999
+  },
+  {
+    "id": 5,
+    "name": "HP Pavilion x360",
+    "image":  "./images/pic5.jpeg",
+    "description": "Touchscreen 2-in-1 laptop, 16GB RAM, 512GB SSD, 11th Gen Intel i7.",
+    "price": 72999
+  },
+  {
+    "id": 6,
+    "name": "Sony WH-1000XM5",
+    "image": "./images/pic6.jpeg",
+    "description": "Premium wireless noise-cancelling headphones with 30-hour battery life.",
+    "price": 29990
+  },
+  {
+    "id": 7,
+    "name": "Boat Airdopes 141",
+    "image":  "./images/pic7.jpeg",
+    "description": "Low latency gaming TWS earbuds, ENx noise cancellation, 42-hour playback.",
+    "price": 1299
+  },
+  {
+    "id": 8,
+    "name": "Samsung 55-inch 4K TV",
+    "image": "./images/pic8.jpeg",
+    "description": "Crystal 4K UHD, HDR10+, Smart TV with powerful processor.",
+    "price": 46999
+  },
+  {
+    "id": 9,
+    "name": "LG 43-inch Smart TV",
+    "image": "./images/pic9.jpeg",
+    "description": "α5 AI Processor 4K, WebOS, 20W sound output, HDR.",
+    "price": 31999
+  },
+  {
+    "id": 10,
+    "name": "Apple Watch Series 9",
+    "image": "./images/pic10.jpeg",
+    "description": "Always-On Retina display, S9 chip, advanced health tracking sensors.",
+    "price": 41999
+  },
+  {
+    "id": 11,
+    "name": "Amazfit Bip 5",
+    "image": "./images/pic11.jpeg",
+    "description": "Large HD display, 120 sports modes, 10-day battery life.",
+    "price": 4999
+  },
+  {
+    "id": 12,
+    "name": "Logitech MX Master 3S",
+    "image": "./images/pic12.jpeg",
+    "description": "Ergonomic wireless mouse with silent clicks and fast scroll wheel.",
+    "price": 8495
+  },
+  {
+    "id": 13,
+    "name": "Lenovo Tab M10",
+    "image": "./images/pic13.jpeg",
+    "description": "10.1-inch FHD display, 4GB RAM, 64GB storage, Dolby Atmos.",
+    "price": 13999
+  },
+  {
+    "id": 14,
+    "name": "iPad 10th Gen",
+    "image":"./images/pic14.jpeg",
+    "description": "10.9-inch Liquid Retina display, A14 Bionic chip, 64GB storage.",
+    "price": 44999
+  },
+  {
+    "id": 15,
+    "name": "Canon EOS 1500D",
+    "image": "./images/pic15.jpeg",
+    "description": "24.1MP DSLR camera with EF-S 18-55mm lens.",
+    "price": 38999
+  },
+  {
+    "id": 16,
+    "name": "Sony Alpha A6100",
+    "image": "./images/pic16.jpeg",
+    "description": "24.2MP mirrorless camera with 4K video recording and fast autofocus.",
+    "price": 67999
+  },
+  {
+    "id": 17,
+    "name": "JBL Charge 5 Speaker",
+    "image": "./images/pic17.jpeg",
+    "description": "Portable Bluetooth speaker with 20 hours battery and IP67 rating.",
+    "price": 14999
+  },
+  {
+    "id": 18,
+    "name": "Amazon Echo Dot 5th Gen",
+    "image":"./images/pic18.jpeg",
+    "description": "Smart speaker with Alexa, improved bass and voice detection.",
+    "price": 4499
+  },
+  {
+    "id": 19,
+    "name": "Mi Air Purifier 4",
+    "image":"./images/pic19.jpeg",
+    "description": "High-efficiency filtration system with real-time air quality display.",
+    "price": 13999
+  },
+  {
+    "id": 20,
+    "name": "Asus ROG Strix Gaming Laptop",
+    "image": "./images/pic20.jpeg",
+    "description": "Ryzen 7, RTX 3060, 16GB RAM, 1TB SSD, 15.6-inch 144Hz display.",
+    "price": 129999
+  }
+]
