@@ -1,0 +1,18 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head
+{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color:rgb(68, 66, 66);
+}
+.cardImg
+{
+    width: 200px;
+    height: 200px;
+}

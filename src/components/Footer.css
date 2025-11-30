@@ -1,0 +1,14 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer
+{
+    height: 80px;
+    padding-top:20px;
+    color:white;
+    text-align: center;
+    background-color: black;
+}

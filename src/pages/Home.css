@@ -1,0 +1,22 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.homePara
+{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.homeHead
+{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color:rgb(68, 66, 66);
+}
+.span
+{
+    font-style: oblique;
+    color:rgb(126, 73, 5);
+}

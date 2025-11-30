@@ -1,0 +1,37 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navBar
+{
+    height: 70px;
+    background-color: rgb(164, 201, 188);
+    box-shadow: 0px 4px 16px rgb(177, 128, 64);
+}
+.navCollapse
+{
+    background-color: rgb(164, 201, 188) ;
+    text-align: center;
+   
+}
+.brand
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: bold;
+    color:rgb(126, 73, 5);
+    margin-left: 40px;
+}
+.navLink
+{
+    margin-right: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    color:rgb(46, 45, 45);
+}
+.navLink:hover
+{
+    color:rgb(126, 73, 5);
+}
